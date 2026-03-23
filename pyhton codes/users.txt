@@ -1,0 +1,4 @@
+name,age,gender,role,mac
+Ali,4,Male,Student, xx:xx:xx:xx:xx:xx
+Sara,30,Female,Teacher, xx:xx:xx:xx:xx:xx
+Adel,25,Male,Teacher,  xx:xx:xx:xx:xx:xx
